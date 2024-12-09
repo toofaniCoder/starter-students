@@ -1,0 +1,22 @@
+[
+  {
+    "name": "John Doe",
+    "age": 16,
+    "grade": "10th"
+  },
+  {
+    "name": "Jane Smith",
+    "age": 17,
+    "grade": "11th"
+  },
+  {
+    "name": "Emily Johnson",
+    "age": 15,
+    "grade": "9th"
+  },
+  {
+    "name": "Michael Brown",
+    "age": 18,
+    "grade": "12th"
+  }
+]
